@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/DeepaNarayanswamy/githubintegration/_apis/build/status/deepacnc.ContosoAir?branchName=master)](https://dev.azure.com/DeepaNarayanswamy/githubintegration/build/latest?definitionId=26&branchName=master)
 
 # Microsoft.Github CI Demo
 
